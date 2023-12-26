@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating a platform
 - 🌱 I’m currently learning c++, css, python, HTML, shakespeare
 - 💞️ I’m looking to collaborate on magic
-- 📫 How to reach me Discord is MUD$
+- 📫 How to reach me Discord is _m_u_d_s_
 
 <!---
 501L/501L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
